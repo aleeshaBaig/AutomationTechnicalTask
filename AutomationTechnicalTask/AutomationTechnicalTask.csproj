@@ -112,6 +112,7 @@
     <Compile Include="Steps\AddToCartSteps.cs" />
     <Compile Include="API\ApiTests.cs" />
     <Compile Include="Constants\Constants.cs" />
+    <Compile Include="Constants\EmptyClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
