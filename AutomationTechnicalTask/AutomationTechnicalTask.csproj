@@ -120,6 +120,7 @@
   <ItemGroup>
     <Folder Include="Pages\" />
     <Folder Include="API\" />
+    <Folder Include="Constants\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\SpecFlow.3.9.74\build\SpecFlow.targets" Condition="Exists('..\packages\SpecFlow.3.9.74\build\SpecFlow.targets')" />
